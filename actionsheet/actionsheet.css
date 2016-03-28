@@ -32,7 +32,7 @@
 }
 
 .actionSheetScroller {
-    max-height: 60%;
+    max-height: 60vh;
     overflow-x: hidden;
     overflow-y: auto;
     /* Override default style being applied by polymer */
